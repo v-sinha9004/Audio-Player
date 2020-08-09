@@ -10,3 +10,14 @@
 -> used superagent module for calling soundcloud api
 -> used efficiently all different components
 -> used immutable for not mutating the data and use its data structure like map, record, and list
+
+
+Quick Start
+-----------
+
+```
+git clone https://github.com/v-sinha9004/Audio-Player.git
+cd Audio-Player
+npm install
+npm start
+```
