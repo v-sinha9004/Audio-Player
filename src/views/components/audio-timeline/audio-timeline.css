@@ -1,0 +1,13 @@
+.audio-timeline {
+  display: block;
+  position: relative;
+  width: inherit;
+  height: inherit; }
+  .audio-timeline .bar {
+    position: absolute;
+    height: inherit;
+    background: #506f43; }
+  .audio-timeline .bar--animated {
+    transition: width 500ms; }
+  .audio-timeline .bar--buffered {
+    opacity: .3; }

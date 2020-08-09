@@ -1,0 +1,16 @@
+.search-header {
+  margin-bottom: 40px;
+  padding-top: 94px;
+  height: 220px;
+  color: #7d7e7f;
+  background: #1d1e1f; }
+
+.search-header__title {
+  color: #d6d6d6;
+  font-size: 2.25rem;
+  font-weight: 300;
+  line-height: 1.16667;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  word-wrap: normal; }
